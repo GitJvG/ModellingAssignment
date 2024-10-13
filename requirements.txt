@@ -1,0 +1,11 @@
+ipython==8.12.3
+ipython==8.27.0
+matplotlib==3.9.2
+numpy==1.24.4
+pandas==2.2.3
+scikeras==0.11.0
+scikit_learn==1.5.2
+seaborn==0.13.2
+stargazer==0.0.7
+statsmodels==0.14.4
+tensorflow==2.10.1
